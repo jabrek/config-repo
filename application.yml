@@ -11,3 +11,4 @@ fortune:
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
+
